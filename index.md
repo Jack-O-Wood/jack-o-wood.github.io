@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: "Jack Wood"
-description: "MS Business Analytics @ Fordham | Machine Learning & BI | International Development Professional"
+description: "MS Business Analytics @ Fordham | Machine Learning | International Development Professional"
 image: null
 author: null
 show_tile: false
