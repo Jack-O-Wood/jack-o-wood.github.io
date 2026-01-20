@@ -18,7 +18,7 @@ tile_order: 1
 
 <p>I'm a data analytics professional pursuing my MS in Business Analytics at Fordham University, bringing seven years of experience turning complex program data into actionable insights for government and international stakeholders.</p>
 
-<p>My interest in data analytics grew out of seeing how central data-driven decision-making and evaluation are to effective international development, and how challenging it can be to fully integrate these practices into day-to-day program work. I became particularly drawn to data-focused learning and evaluation as ways to strengthen program design, support strategic decisions, and translate complex information for diverse stakeholders. This perspective motivated me to deepen my technical training, so I can contribute more intentionally to the kinds of analytical work I had long seen as essential to advancing impact.</p>
+<p>My interest in data analytics grew from observing how crucial data-driven decision-making and evaluation are to effective international development, as well as the challenges of fully integrating these practices into daily program work. I was particularly drawn to data-focused learning and evaluation, seeing them as vital tools for strengthening program design, supporting strategic decisions, and translating complex information for diverse stakeholders. This perspective inspired me to deepen my technical training, enabling me to contribute more effectively to the analytical work I view as essential for advancing impact.</p>
 
 <hr class="major" />
 
