@@ -93,7 +93,7 @@ tile_order: 2
 </thead>
 <tbody>
 <tr>
-<td><strong>UN DESA AI Knowledge Hub</strong></td>
+<td><strong>United Nations DESA AI Knowledge Hub</strong></td>
 <td>An AI-assisted platform ('Cidy') for UN DESA staff to streamline capacity development project design, planning, and monitoring. Combines a centralized knowledge hub with an on-demand AI assistant. Supports the UN 2.0 and UN 80 visions.</td>
 <td>AI/NLP, Web Development</td>
 </tr>
