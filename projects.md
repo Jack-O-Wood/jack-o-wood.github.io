@@ -75,4 +75,51 @@ tile_order: 2
 </section>
 
 </section>
+<!-- Currently Working On -->
+<section id="in-progress">
+<div class="inner">
+<header class="major">
+<h2>Currently Working On</h2>
+</header>
+<p>A few projects in active development — not yet finished, but worth sharing.</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>UN DESA AI Knowledge Hub</strong></td>
+<td>An AI-assisted platform ('Cidy') for UN DESA staff to streamline capacity development project design, planning, and monitoring — combining a centralized knowledge hub with an on-demand AI assistant. Supports the UN 2.0 and UN 80 visions.</td>
+<td>AI/NLP, Web Development</td>
+</tr>
+<tr>
+<td><strong>March Madness Predictor</strong></td>
+<td>A deep learning approach to NCAA tournament prediction using CNNs trained on team shot map data alongside traditional machine learning features.</td>
+<td>Python, TensorFlow, CNNs</td>
+</tr>
+<tr>
+<td><strong>AI Stock Recommender</strong></td>
+<td>Group project building an AI-powered financial analytics app that generates stock recommendations by combining fundamental analysis, historical pricing, and news sentiment with user-defined preferences like industry, market cap, and risk tolerance.</td>
+<td>Python, Gemini API, NLP</td>
+</tr>
+<tr>
+<td><strong>IP Litigation Deep Learning</strong></td>
+<td>A deep learning project analyzing intellectual property litigation case files. Scope and approach currently being defined.</td>
+<td>Deep Learning, NLP</td>
+</tr>
+<tr>
+<td><strong>NLP Project</strong></td>
+<td>An upcoming natural language processing project — currently in the topic selection phase.</td>
+<td>Python, NLP</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section>
 </div>
