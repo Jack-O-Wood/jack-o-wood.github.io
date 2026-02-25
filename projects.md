@@ -81,7 +81,7 @@ tile_order: 2
 <header class="major">
 <h2>Currently Working On</h2>
 </header>
-<p>A few projects in active development — not yet finished, but worth sharing.</p>
+<p>A few projects in active development </p>
 <div class="table-wrapper">
 <table>
 <thead>
