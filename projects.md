@@ -94,7 +94,7 @@ tile_order: 2
 <tbody>
 <tr>
 <td><strong>UN DESA AI Knowledge Hub</strong></td>
-<td>An AI-assisted platform ('Cidy') for UN DESA staff to streamline capacity development project design, planning, and monitoring — combining a centralized knowledge hub with an on-demand AI assistant. Supports the UN 2.0 and UN 80 visions.</td>
+<td>An AI-assisted platform ('Cidy') for UN DESA staff to streamline capacity development project design, planning, and monitoring. Combines a centralized knowledge hub with an on-demand AI assistant. Supports the UN 2.0 and UN 80 visions.</td>
 <td>AI/NLP, Web Development</td>
 </tr>
 <tr>
@@ -114,7 +114,7 @@ tile_order: 2
 </tr>
 <tr>
 <td><strong>NLP Project</strong></td>
-<td>An upcoming natural language processing project — currently in the topic selection phase.</td>
+<td>An upcoming natural language processing project. Currently in the topic selection phase.</td>
 <td>Python, NLP</td>
 </tr>
 </tbody>
