@@ -7,7 +7,7 @@ nav-menu: true
 show_tile: true
 tile_order: 2
 ---
-
+ 
 <div id="main" class="alt">
 <section id="one">
 <div class="inner">
@@ -17,9 +17,7 @@ tile_order: 2
 <p>A collection of projects demonstrating skills in machine learning, Python development, and database design.</p>
 </div>
 </section>
-
 <section id="two" class="spotlights">
-
 <section>
 <a href="news-coverage-profiles.html" class="image">
 <img src="assets/images/news-coverage.png" alt="" data-position="center center" />
@@ -29,7 +27,7 @@ tile_order: 2
 <header class="major">
 <h3>Multi-Dimensional News Coverage Profiles</h3>
 </header>
-<p>Most media-bias tools collapse a news outlet into a single left–right score. This project builds multi-dimensional coverage profiles instead, combining distinctive-vocabulary, sentiment, emotion, moral-foundations, sub-theme, and named-entity analysis to capture not just where an outlet leans but how it frames the news. It spans five outlets across five contested topics, paired with an interactive web app that lets readers explore any outlet–topic combination.</p>
+<p>Most media-bias tools collapse a news outlet into a single left-right score. This project builds multi-dimensional coverage profiles instead, combining distinctive-vocabulary, sentiment, emotion, moral-foundations, sub-theme, and named-entity analysis to capture not just where an outlet leans but how it frames the news. It spans five outlets across five contested topics, paired with an interactive web app that lets readers explore any outlet-topic combination.</p>
 <p><strong>Tools:</strong> Python, Scikit-learn, spaCy, NLTK, Plotly</p>
 <ul class="actions">
 <li><a href="news-coverage-profiles.html" class="button">More Details</a></li>
@@ -37,7 +35,6 @@ tile_order: 2
 </div>
 </div>
 </section>
-
 <section>
 <a href="cidy-knowledge-hub.html" class="image">
 <img src="assets/images/cidy.png" alt="" data-position="top center" />
@@ -45,7 +42,7 @@ tile_order: 2
 <div class="content">
 <div class="inner">
 <header class="major">
-<h3>United Nations DESA — Cidy Knowledge Hub</h3>
+<h3>United Nations DESA - Cidy Knowledge Hub</h3>
 </header>
 <p>An AI assistant ('Cidy') for UN DESA's Capacity Development Programme Management Office. Cidy routes a staff member's question to the right internal knowledge source, drafts a cited answer, scores its own confidence, and escalates to a human when confidence is low, built on a knowledge base segmented by funding stream and topic area. Supports the UN 2.0 and UN 80 visions.</p>
 <p><strong>Tools:</strong> MS Copilot Studio, AI/NLP, Conversational AI</p>
@@ -55,7 +52,6 @@ tile_order: 2
 </div>
 </div>
 </section>
-
 <section>
 <a href="march-madness.html" class="image">
 <img src="assets/images/march-madness.png" alt="" data-position="center center" />
@@ -73,7 +69,6 @@ tile_order: 2
 </div>
 </div>
 </section>
-
 <section>
 <a href="ip-litigation.html" class="image">
 <img src="assets/images/ip-litigation.png" alt="" data-position="center center" />
@@ -91,7 +86,6 @@ tile_order: 2
 </div>
 </div>
 </section>
-
 <section>
 <a href="spotify-ml.html" class="image">
 <img src="assets/images/spotify-shap-beeswarm.png" alt="" data-position="center center" />
@@ -109,7 +103,6 @@ tile_order: 2
 </div>
 </div>
 </section>
-
 <section>
 <a href="ai-stock-recommender.html" class="image">
 <img src="assets/images/ai-stock-recommender.png" alt="" data-position="center center" />
@@ -127,7 +120,6 @@ tile_order: 2
 </div>
 </div>
 </section>
-
 <section>
 <a href="insurance-db.html" class="image">
 <img src="assets/images/Apex-project.jpg" alt="" data-position="top center" />
@@ -145,7 +137,6 @@ tile_order: 2
 </div>
 </div>
 </section>
-
 <section>
 <a href="student-db.html" class="image">
 <img src="assets/images/pythonstudentproject.jpg" alt="" data-position="center center" />
@@ -163,7 +154,6 @@ tile_order: 2
 </div>
 </div>
 </section>
-
 </section>
 <!-- Currently Working On -->
 <section id="in-progress">
@@ -184,7 +174,7 @@ tile_order: 2
 <tbody>
 <tr>
 <td><strong>Legislative Contagion</strong></td>
-<td>Tracking the diffusion of authoritarian legislation through natural language processing. An NLP pipeline that detects when legislative language originating in one jurisdiction — such as authoritarian regimes or politically polarized US states — is adopted, adapted, or echoed in others, mapping the cross-border networks of originators, amplifiers, and adopters of restrictive policy language.</td>
+<td>Tracking the diffusion of authoritarian legislation through natural language processing. An NLP pipeline that detects when legislative language originating in one jurisdiction (such as authoritarian regimes or politically polarized US states) is adopted, adapted, or echoed in others, mapping the cross-border networks of originators, amplifiers, and adopters of restrictive policy language.</td>
 <td>Python, NLP</td>
 </tr>
 </tbody>
@@ -193,3 +183,4 @@ tile_order: 2
 </div>
 </section>
 </div>
+ 
